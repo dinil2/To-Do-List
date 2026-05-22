@@ -1,0 +1,6 @@
+{
+  "name": "Task Manager",
+  "description": "A single-screen interactive Task Manager app utilizing Material 3, dynamic checkboxes, and a local Room database for seamless persistent task tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
